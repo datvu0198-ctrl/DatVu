@@ -24,9 +24,7 @@
 
 ### 🛒 Phone Shop System
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/datvu0198-ctrl/phoneshop/main/images/preview.png" width="800"/>
-</p>
+
 
 🔗 https://github.com/datvu0198-ctrl/phoneshop
 
