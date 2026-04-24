@@ -71,7 +71,7 @@
 ---
 
 ## 🌐 Connect
-- 📧 Email: your-email@gmail.com
+- 📧 Email: datvu0198@gmail.com
 - 💼 LinkedIn: ...
 - 📱 Facebook: ...
 
