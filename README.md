@@ -1,93 +1,81 @@
-# 👋 Hi, I'm Dat Vu
+<!-- 🌌 DARK BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Dat%20Vu&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🚀 Fullstack Developer | 💻 React • Node.js • AI  
-🔥 Building real-world projects (E-commerce, AI Vision)
+<h1 align="center">Hi 👋, I'm Dat Vu</h1>
+<h3 align="center">🚀 Fullstack Developer | React • Node.js • AI</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Building+E-commerce+Systems;AI+Computer+Vision;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on: **E-commerce Website + AI Payment Detection**
-- 🌱 Learning: **Advanced Fullstack & AI Integration**
-- ⚡ Strength: Build full project từ UI → Backend → AI
+- 🔭 Working on: **Phone Shop E-commerce System**
+- 🤖 Developing: **AI Money Detection (YOLO)**
+- ⚡ Strong at: Fullstack (Frontend → Backend → AI)
 - 🎯 Goal: Become a **Senior Fullstack Developer**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🛒 E-commerce Website
-- 🔥 Fullstack Web bán điện thoại
-- 🧠 Tech: React, TypeScript, Node.js, MySQL
-- ✨ Features:
-  - Authentication (Login/Register)
-  - Product detail + zoom slider
-  - Admin dashboard
-  - Shopping cart
+### 🛒 Phone Shop System
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/datvu0198-ctrl/phoneshop/main/images/preview.png" width="800"/>
+</p>
 
-### 🤖 AI Smart Payment Detection
-- 💰 Nhận diện tiền bằng camera (YOLO)
-- 🧠 Tech: Python, OpenCV, YOLOv8
-- ⚡ Features:
-  - Detect tiền real-time
-  - Auto tính tổng tiền
-  - Tối ưu cho hệ thống thanh toán tự động
+🔗 https://github.com/datvu0198-ctrl/phoneshop
 
 ---
 
-### 💬 AI Chatbot
-- 🤖 Chatbot tích hợp API AI
-- ⚡ Hỗ trợ khách hàng tự động
-- 🧠 Tech: React + API AI
+### ✨ Features
+- 🛍 Product listing + detail + zoom
+- 🔐 Authentication (Login/Register)
+- 🛒 Shopping cart
+- ⚙️ Admin dashboard
+- 📱 Responsive UI
 
 ---
 
-## ⚙️ Tech Stack
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql,tailwind" />
+</p>
 
-### 🖥 Frontend
-![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind)
+---
 
-### 🧠 Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
-
-### 🗄 Database
-![Database](https://skillicons.dev/icons?i=mysql,mongodb)
-
-### 🤖 AI / Tools
-![AI](https://skillicons.dev/icons?i=python,opencv)
-
-### ⚒ Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+## 🤖 AI Project (Coming Soon)
+- 💰 Money detection using YOLO
+- 🎥 Real-time camera
+- ⚡ Auto payment system
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datvu0198-ctrl&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datvu0198-ctrl&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+## 🔥 Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=datvu0198-ctrl&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-- 📧 Email: datvu0198@gmail.com
-- 🌍 Facebook: ...
+## 🌐 Connect
+- 📧 Email: your-email@gmail.com
 - 💼 LinkedIn: ...
+- 📱 Facebook: ...
 
 ---
 
-## 🧠 Dev Quote
-> "Code không chỉ chạy — mà phải chạy đẹp."
-
----
-
-## 👀 Visitor Count
-![Visitor](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+## 🧠 Quote
+> "Build real projects. Not just tutorials."
