@@ -1,79 +1,56 @@
-<!-- 🌌 DARK BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Dat%20Vu&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+## 🚀 Dat Vu - Fullstack Developer
 
-<h1 align="center">Hi 👋, I'm Dat Vu</h1>
-<h3 align="center">🚀 Fullstack Developer | React • Node.js • AI</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Building+E-commerce+Systems;AI+Computer+Vision;Always+Learning+New+Things" />
-</p>
+🌐 **Portfolio:** https://vuthanhdat.vercel.app
+📂 **GitHub:** https://github.com/datvu0198-ctrl
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Working on: **Phone Shop E-commerce System**
-- 🤖 Developing: **AI Money Detection (YOLO)**
-- ⚡ Strong at: Fullstack (Frontend → Backend → AI)
-- 🎯 Goal: Become a **Senior Fullstack Developer**
+
+* 🚀 Fullstack Developer (React + Node.js)
+* 🤖 Working with AI (YOLO, Computer Vision)
+* ⚡ Build real-world projects (E-commerce, AI systems)
+* 🎯 Looking for **Intern / Fresher opportunities**
 
 ---
 
-## 🚀 Featured Project
+## 🛒 Featured Project: Phone Shop System
 
-### 🛒 Phone Shop System
-
-
-
-🔗 https://github.com/datvu0198-ctrl/phoneshop
+🌐 **Live Demo:** https://vuthanhdat.vercel.app
+📂 **Source Code:** https://github.com/datvu0198-ctrl/phoneshop
 
 ---
 
 ### ✨ Features
-- 🛍 Product listing + detail + zoom
-- 🔐 Authentication (Login/Register)
-- 🛒 Shopping cart
-- ⚙️ Admin dashboard
-- 📱 Responsive UI
+
+* Authentication (Login/Register)
+* Shopping cart system
+* Admin dashboard
+* Responsive UI
 
 ---
 
 ### 🧠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql,tailwind" />
-</p>
+
+React • TypeScript • Node.js • Express • MySQL • Tailwind
 
 ---
 
 ## 🤖 AI Project (Coming Soon)
-- 💰 Money detection using YOLO
-- 🎥 Real-time camera
-- ⚡ Auto payment system
+
+* Money detection using YOLO
+* Real-time camera system
+* Auto payment
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datvu0198-ctrl&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datvu0198-ctrl&layout=compact&theme=tokyonight" height="160"/>
-</p>
+## 📬 Contact
+
+* 📧 Email: [datvu0198@gmail.com](mailto:datvu0198@gmail.com)
+* 🌐 Portfolio: https://vuthanhdat.vercel.app
 
 ---
 
-## 🔥 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=datvu0198-ctrl&theme=tokyonight"/>
-</p>
+## 💡 Quote
 
----
-
-## 🌐 Connect
-- 📧 Email: datvu0198@gmail.com
-- 💼 LinkedIn: ...
-- 📱 Facebook: ...
-
----
-
-## 🧠 Quote
-> "Build real projects. Not just tutorials."
+> Build real projects. Not just tutorials.
